@@ -73,8 +73,8 @@
     "sort-package-json": "^1.57.0",
     "ts-jest": "^28.0.2",
     "typescript": "^4.6.3",
-    "vite": "^2.9.9",
-    "vite-plugin-eslint": "^1.6.1",
-    "vite-tsconfig-paths": "^3.4.1"
+    "vite": "^4.5.3",
+    "vite-plugin-eslint": "^1.8.1",
+    "vite-tsconfig-paths": "^4.3.2"
   }
 }
